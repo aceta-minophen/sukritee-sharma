@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sukritee Sharma",
-  title: "Backend Developer",
+  title: "Cloud Computing and Backend Developer",
   email: "sukritee.sharma@gmail.com",
   gitHub: "https://github.com/aceta-minophen",
   linkedIn: "sukritee-sharma",

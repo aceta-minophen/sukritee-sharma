@@ -24,19 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am an Electronics and Communication Engineering student at Indira Gandhi Delhi Technical University for Women. I am a Cloud Computing enthusiast and a Backend Developer. I am passionate about solving problems in new creative ways to drive innovation. By leveraging my cloud computing experience I continually look for new and better ways to make tech accessible by all.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Cloud Compuitng",
+  "Internet of Things",
+  "Robotics",
+  "Web Development",
+  "Backend Development",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a self-motivated person who is willing to learn and explore new technologies. I am a team player and I believe in working together to achieve a common goal. I am a quick learner and I am always ready to take up new challenges.I constantly push myself to broaden my skillset and I have this mentality of being able to accomplish anything that I set my mind to, whether I have the technical prerequisites for it or not. ";
 
 const About = () => {
   return (
